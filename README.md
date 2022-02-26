@@ -296,6 +296,6 @@ from PIL import Image# site = 255  # 读取图片位置model_state_dict = paddle
 
 aistudio链接：https://aistudio.baidu.com/aistudio/usercenter
 
-github链接：
+github链接：https://github.com/jiejieyun/CTAD
 
-gitee链接：
+gitee链接：https://gitee.com/MingjieLove/CTAD
